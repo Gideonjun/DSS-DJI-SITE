@@ -7,6 +7,9 @@
  #tijdlijn{background-image: linear-gradient(to bottom right, #00ccff, #5643fd, #1d1135);}
  .whitetekst{color: #fff;}
  .text-muted2{color:#e9ecef;}
- #team{background-color: #1d1135}
+ #team{background-color: #fff}
  .footerbg{background-color: #212529;}
  .arrow{margin-top: -5px;}
+ .teampic{ width: 100%;height: auto;}
+ .teampic1{ width: 100%;height: 550px;}
+ .teamplek{}
